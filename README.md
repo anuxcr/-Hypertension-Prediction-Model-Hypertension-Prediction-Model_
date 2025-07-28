@@ -1,4 +1,4 @@
-# Hypertension-Prediction-Model-
+# Hypertension-Prediction-Model :- Predictive analysis using Machine Learning 
 
 #Hypertension Prediction Model : Predictive analysis using Machine Learning 
 This repository contains a machine learning model designed to predict the likelihood of an individual having hypertension based on various health and lifestyle factors. The project utilizes a classification algorithm to analyze a provided dataset, offering insights into the key indicators of hypertension.
